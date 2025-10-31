@@ -14,7 +14,7 @@
 @misc{geosteeringno2025geologyforecastsummary,
   author       = {{geosteering-no} and Sergey Alyaev},
   title        = {Top Solutions of the Geology Forecast Challenge },
-  howpublished = {GitHub repository, \url{https://github.com/geosteering-no/Geology_Forecast_Summary}},
+  howpublished = {GitHub repository, \url{https://github.com/geosteering-no/Geology_Forecast_Top}},
   year         = {2025},
   note         = {Accessed: 2025-10-31}
 }
