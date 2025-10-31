@@ -9,7 +9,7 @@
 
 ## Cite as
 
-[geosteering-no and Sergey Alyaev, *Top Solutions of the Geology Forecast Challenge*, GitHub repository, 2025.](https://github.com/geosteering-no/Geology_Forecast_Top)
+geosteering-no and Sergey Alyaev, *Top Solutions of the Geology Forecast Challenge*, GitHub repository, 2025. [Url: https://github.com/geosteering-no/Geology_Forecast_Top](https://github.com/geosteering-no/Geology_Forecast_Top)
 ```
 @misc{geosteeringno2025geologyforecastsummary,
   author       = {{geosteering-no} and Sergey Alyaev},
