@@ -1,4 +1,4 @@
-# Geology Forecast Challenge Results Summary
+# Top Solutions of the Geology Forecast Challenge 
 
 [Geology Forecast Challang on Kaggle](https://www.kaggle.com/competitions/geology-forecast-challenge-open).
 
@@ -9,13 +9,12 @@
 
 ## Cite as
 
-[geosteering-no and Sergey Alyaev, *Geology Forecast Challenge Results Summary*, GitHub 2025.](https://github.com/geosteering-no/Geology_Forecast_Summary)
-
+[geosteering-no and Sergey Alyaev, *Top Solutions of the Geology Forecast Challenge*, GitHub repository, 2025.](https://github.com/geosteering-no/Geology_Forecast_Top)
 ```
 @misc{geosteeringno2025geologyforecastsummary,
   author       = {{geosteering-no} and Sergey Alyaev},
-  title        = {Geology Forecast Challenge Results Summary},
-  howpublished = {\url{https://github.com/geosteering-no/Geology_Forecast_Summary}},
+  title        = {Top Solutions of the Geology Forecast Challenge },
+  howpublished = {GitHub repository, \url{https://github.com/geosteering-no/Geology_Forecast_Summary}},
   year         = {2025},
   note         = {Accessed: 2025-10-31}
 }
